@@ -7,12 +7,3 @@
 > You are free to build, remix, and share this project, but you **cannot sell** the files, kits, or finished prints without permission.
 
 ---
-
-## 📜 License Summary
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0**.
-* **Attribution:** You must give credit if you share or remix this.
-* **Non-Commercial:** No selling parts or making money from this design.
-* **Full Terms:** See the [LICENSE.md](./LICENSE.md) file for the legal fine print.
-
----
-**BY PROCEEDING WITH THE DOWNLOAD, YOU AGREE TO ALL TERMS LISTED ABOVE.**
